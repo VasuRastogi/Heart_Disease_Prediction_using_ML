@@ -10,6 +10,6 @@ This Project is trained on cleaned dataset i.e. heart.csv.
 
 Have to make a seperate ipynb and use Heart_strokes data to predict.
 
-*Challanges*
+**Challanges**
 
 smoking habits attribute have more than 50% data as missing.
